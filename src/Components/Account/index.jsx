@@ -8,6 +8,7 @@ import { Box, Btn, Detalle, Icono, Saldo } from "../UI";
 
 const IconoMargin = styled(Icono) `
 margin-top: 2px;
+margin-left: 0;
 ` 
 /**const = styled. `` */
 
