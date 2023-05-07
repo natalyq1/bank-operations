@@ -8,7 +8,7 @@ background-color: ${colorPrimario};
   display: flex;
   justify-content: space-between;
   padding: 0 15vw;
-  height: 10vh;
+  height: 20vh;
   align-items: center;
   `
 const Logo = styled.img`
